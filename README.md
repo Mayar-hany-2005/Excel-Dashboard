@@ -48,7 +48,7 @@ Here are some glimpses of the interactive Airport Insights Dashboard:
 ![Airport Insights Dashboard Preview 1](dashboard_overview_1.jpg.png)
 
 **Dashboard View 2:**
-![Airport Insights Dashboard Preview 2](dashboard_overview_2.png)
+![Airport Insights Dashboard Preview 2](dashboard_overview_2.png.png)
 
 
 ---

@@ -29,14 +29,15 @@ The dashboard is built using the `داشبورد المطار.csv` dataset, whic
 
 * **Microsoft Excel**: Used as the primary tool for building this comprehensive and interactive dashboard.
 * **Data Visualization**: Leveraging Excel's advanced charting and conditional formatting capabilities.
+* 
+## 📁 Project Structure
 
----
-📁 Airport-Insights-Dashboard/
+📁 Excel-Airport-Insights-Dashboard/
+├── 📄 داشبورد المطار.xlsx
+├── 🖼️ dashboard_overview_1.jpg.png
+├── 🖼️ dashboard_overview_2.png
+└── 📄 README.md
 
-📄 Airport Dashboard.csv
- 🖼️ dashboard_overview_1.jpg
- 🖼️ dashboard_overview_2.png
-📄 README.md
 
 ---
 

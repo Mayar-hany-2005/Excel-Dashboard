@@ -32,11 +32,11 @@ The dashboard is built using the `داشبورد المطار.csv` dataset, whic
 
 ---
 📁 Airport-Insights-Dashboard/
-├── 📄 Airport Dashboard.csv
-├── 📁 images/
-│   ├── 🖼️ dashboard_overview_1.jpg
-│   └── 🖼️ dashboard_overview_2.png
-└── 📄 README.md
+
+📄 Airport Dashboard.csv
+ 🖼️ dashboard_overview_1.jpg
+ 🖼️ dashboard_overview_2.png
+📄 README.md
 
 ---
 

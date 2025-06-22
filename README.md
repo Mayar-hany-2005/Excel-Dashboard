@@ -60,4 +60,4 @@ Here are some glimpses of the interactive Airport Insights Dashboard:
 
 I'm Mayar Hany, a passionate Business Intelligence student specializing in transforming complex datasets into clear, actionable visual insights. My goal is to build impactful dashboards that drive informed decision-making.
 
-🔗 [LinkedIn](https://linkedin.com/in/mayar-hany-139a2a2a6) | 🌐 [Portfolio](https://convivial-domain-764608.framer.app)
+🔗 [LinkedIn](https://linkedin.com/in/mayar-hany-139a2a2a6) 

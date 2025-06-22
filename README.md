@@ -32,7 +32,7 @@ The dashboard is built using the `داشبورد المطار.csv` dataset, whic
 * 
 ## 📁 Project Structure
 
-📁 Excel-Airport-Insights-Dashboard/
+📁 Excel-Airport-Insights-Dashboard
 ├── 📄 Airport-Dashboard.xlsx              # Excel file containing analysis and visualizations  
 ├── 🖼️ dashboard_overview_1.jpg.png        # First snapshot of the dashboard (overview)  
 ├── 🖼️ dashboard_overview_2.png            # Second snapshot showing a different part of the analysis  

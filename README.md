@@ -32,14 +32,12 @@ The dashboard is built using the `داشبورد المطار.csv` dataset, whic
 
 ---
 
-## 📁 Project Structure
-
-.
-├── داشبورد المطار.csv          # The main dataset used for the dashboard
-├── images/                      # Folder for dashboard screenshots
-│   ├── dashboard_overview_1.jpg # Screenshot of Dashboard view 1
-│   └── dashboard_overview_2.png # Screenshot of Dashboard view 2
-└── README.md                    # This project documentation file
+📁 Airport-Insights-Dashboard/
+├── 📄 داشبورد المطار.csv          # The core dataset driving the dashboard's insights.
+├── 📁 images/                      # A dedicated folder for all dashboard screenshots and visual assets.
+│   ├── 🖼️ dashboard_overview_1.jpg # High-resolution screenshot of the primary dashboard view.
+│   └── 🖼️ dashboard_overview_2.png # Another detailed screenshot showcasing additional dashboard features or different views.
+└── 📄 README.md                    # The main project documentation, providing an overview, features, and usage instructions.
 
 
 ---

@@ -31,14 +31,12 @@ The dashboard is built using the `داشبورد المطار.csv` dataset, whic
 * **Data Visualization**: Leveraging Excel's advanced charting and conditional formatting capabilities.
 
 ---
-
 📁 Airport-Insights-Dashboard/
-📄 (داشبورد المطار).
-📁 images/                      # A dedicated folder for all dashboard screenshots and visual assets.
-🖼️ dashboard_overview_1.jpg # High-resolution screenshot of the primary dashboard view.
-🖼️ dashboard_overview_2.png # Another detailed screenshot showcasing additional dashboard features or different views.
- 📄 README.md                    # The main project documentation, providing an overview, features, and usage instructions.
-
+├── 📄 Airport Dashboard.csv
+├── 📁 images/
+│   ├── 🖼️ dashboard_overview_1.jpg
+│   └── 🖼️ dashboard_overview_2.png
+└── 📄 README.md
 
 ---
 

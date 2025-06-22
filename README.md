@@ -45,10 +45,11 @@ The dashboard is built using the `داشبورد المطار.csv` dataset, whic
 Here are some glimpses of the interactive Airport Insights Dashboard:
 
 **Dashboard View 1:**
-![Airport Insights Dashboard Preview 1](dashboard_overview_1.jpg)
+![Airport Insights Dashboard Preview 1](dashboard_overview_1.png)
 
 **Dashboard View 2:**
 ![Airport Insights Dashboard Preview 2](dashboard_overview_2.png)
+
 
 ---
 
